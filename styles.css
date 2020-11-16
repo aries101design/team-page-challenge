@@ -71,6 +71,12 @@ body{
 .middle{
     margin-bottom: 2%;
 }
+.copy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
+}
 
 @media(max-width:1062px){
     body{
