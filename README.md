@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://aries101design.github.io/team-page-challenge/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/aries101design/team-page-challenge">
       Solution
     </a>
     <span> | </span>
@@ -41,17 +41,21 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+  -Link is https://github.com/aries101design/team-page-challenge
 - What was your experience?
+  -Easy for me took me 30 mins to complete
 - What have you learned/improved?
+  -Got to know when to add inline-block and how to structure your HTML code to achieve what you want 
 - Your wisdom? :)
+  -Keep Going
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://reactjs.org/)
+- [CSS](https://vuejs.org/)
+- [GITHUB](https://tailwindcss.com/)
 
 ## Features
 
@@ -70,6 +74,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [https://github.com/aries101design/team-page-challenge](https://{your-web-site-link})
+- GitHub [@omguptaIND](https://{github.com/your-usermame})
+- Twitter [@_omg_IND](https://{twitter.com/your-username})
